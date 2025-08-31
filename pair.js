@@ -97,7 +97,7 @@ router.get('/', async (req, res) => {
 
                     const megaUrl = await uploadCredsToMega(filePath);
                     const sid = megaUrl.includes("https://mega.nz/file/")
-                        ? 'zandile~' + megaUrl.split("https://mega.nz/file/")[1]
+                        ? 'BOYKA-XD~' + megaUrl.split("https://mega.nz/file/")[1]
                         : 'Error: Invalid URL';
 
                     console.log(`Session ID: ${sid}`);
@@ -133,7 +133,7 @@ ______________________________
 *💪 ᴇᴍᴘᴏᴡᴇʀɪɴɢ ʏᴏᴜʀ ᴇxᴘᴇʀɪᴀɴᴄᴇ ᴡɪᴛʜ ‎ᴄᴀᴘᴛᴀɪɴ-ᴍғᴏᴍʙɪ ʙᴏᴛ*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/Joshuamambo1/ZANDILE-MK
+🔗 https://github.com/Joshuamambo1/BOYKA-XD
 
 *💭 Need help? Join our support groups:*
 📢 💬
