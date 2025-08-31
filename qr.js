@@ -15,10 +15,10 @@ const { Boom } = require("@hapi/boom");
 const MESSAGE = process.env.MESSAGE ||  `
 *🎉 SESSION GENERATED SUCCESSFULLY! ✅*
 
-*💪 Empowering Your Experience with Joshuamambo1 MD Bot*
+*💪 Empowering Your Experience with ZANDILE MK Bot*
 
 *🌟 Show your support by giving our repo a star! 🌟*
-🔗 https://github.com/Joshuamambo1/ZANDILE-MK 
+🔗 https://github.com/Joshuamambo1/BOYKA-XD 
 
 *💭 Need help? Join our support groups:*
 📢 💬
@@ -27,7 +27,7 @@ https://whatsapp.com/channel/0029VaraMtfFcowAKRdDdp1T
 *📚 Learn & Explore More with Tutorials:*
 🪄 YouTube Channel https://www.youtube.com/@Joshuamambo1
 
-*🥀 Powered by Joshuamambo1 MD Bot & Silva Tech Inc 🥀*
+*🥀 Powered by Joshuamambo1 MD Bot & MIDKBAN Tech Inc 🥀*
 *Together, we build the future of automation! 🚀*
 `
 
